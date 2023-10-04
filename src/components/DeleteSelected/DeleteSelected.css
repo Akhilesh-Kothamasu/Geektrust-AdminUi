@@ -1,0 +1,10 @@
+.deleteselected {
+  background-color: rgb(230, 89, 89);
+  height: 2rem;
+  border-radius: 8px;
+  border: 1px solid red;
+  display: flex;
+  margin-left: 6rem;
+  padding-top: 6px;
+  cursor: pointer;
+}

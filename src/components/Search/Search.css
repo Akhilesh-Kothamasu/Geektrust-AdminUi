@@ -1,0 +1,16 @@
+.search {
+  margin-top: 1rem;
+  width: 80%;
+  padding: 1px 10px;
+  height: 28px;
+  margin-bottom: 1rem;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.search:focus {
+  border: 1px solid blue;
+  transition: 0.2s ease-in-out;
+}
+.search:hover {
+  background-color: #f3f3f3;
+}

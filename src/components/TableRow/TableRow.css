@@ -1,0 +1,8 @@
+tr {
+  border-bottom: 1px solid #ccc;
+}
+td svg {
+  cursor: pointer;
+  margin-right: 10px;
+  fill: #333;
+}
